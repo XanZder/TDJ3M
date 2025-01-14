@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\04a-pratique-h1-h6",
+    "\\05-ol-ul-li",
+    "\\06-table-tr-th-td",
+    "\\07-video-audio",
+    "\\08b-avec-selecteurs",
+    "\\09-modele-de-boite",
+    "\\10-flexbox",
+    "\\11-media-queries"
   ],
   "PreviewInSolutionExplorer": false
 }
