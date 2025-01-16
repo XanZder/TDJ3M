@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04a-pratique-h1-h6",
     "\\05-ol-ul-li",
     "\\06-table-tr-th-td",
     "\\07-video-audio",
@@ -9,8 +8,8 @@
     "\\08b-avec-selecteurs",
     "\\09-modele-de-boite",
     "\\10-flexbox",
-    "\\11-media-queries"
+    "\\11-media-queries",
+    "\\12-pratique-media-queries"
   ],
-  "SelectedNode": "\\08 quizhtml\\HTMLPage1.html",
   "PreviewInSolutionExplorer": false
 }
